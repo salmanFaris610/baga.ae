@@ -240,6 +240,9 @@ body {
     .slide-2 img{
         height: 110px !important;
     }
+    .navbar-brand img {
+    height: 35px;
+}
 }
   /* Centering arrows vertically */
   .centered-arrow {
